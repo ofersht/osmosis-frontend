@@ -1,5 +1,3 @@
-
-
 import { DenomHelper } from "@keplr-wallet/common";
 import { IS_FRONTIER } from "./ibc-assets";
 
