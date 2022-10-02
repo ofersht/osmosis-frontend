@@ -1,3 +1,5 @@
+
+
 import { DenomHelper } from "@keplr-wallet/common";
 import { IS_FRONTIER } from "./ibc-assets";
 
@@ -1086,6 +1088,12 @@ export const ExternalIncentiveGaugeAllowList: {
     },
     {
       gaugeId: "29674",
+      denom: "uosmo",
+    },
+  ],
+  "806": [
+    {
+      gaugeId: "29683",
       denom: "uosmo",
     },
   ],
